@@ -23,8 +23,7 @@ PHP • MySQL (PDO) • HTML • CSS • Bootstrap 5
    git clone https://github.com/your-username/task-management.git
    ```
 
-2. Move the project folder to your server's root directory (e.g., `htdocs` for XAMPP)
-
+2. Move the project folder to your server's root directory
 3. Create the database and tables in phpMyAdmin:
    ```sql
    CREATE DATABASE taskmanagement;
